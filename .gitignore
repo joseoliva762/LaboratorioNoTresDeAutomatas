@@ -3,7 +3,6 @@
 *.csv
 *.gif
 *.pyc
-*.ipynb
 *.doc
 *.docx
 *.pdf
